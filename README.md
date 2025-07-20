@@ -113,11 +113,3 @@ GEMINI_API_KEY=your_api_key_here
 ```bash
 streamlit run data_analyzer.py
 ```
-
-## Future Enhancements
-
-1. **Multiple LLM Support**: Add support for other LLMs (GPT, Claude)
-2. **Advanced Visualizations**: Support for interactive charts (Plotly)
-3. **Data Export**: More export formats (PDF reports, Excel)
-4. **Collaboration**: Multi-user support and sharing
-5. **Custom Models**: Fine-tuned models for specific domains
