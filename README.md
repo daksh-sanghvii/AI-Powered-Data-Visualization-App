@@ -6,8 +6,7 @@ This project creates an intelligent data visualization pipeline using Google's G
 
 ## 🎥 Demo Video
 
-▶️ [Click here to watch the demo video](https://drive.google.com/file/d/your-file-id/view?usp=sharing)
-
+▶️ [Click here to watch the demo video](https://drive.google.com/file/d/1-ERrh345D8JXNA_JdPr4er6UykIWaZMy/view?usp=share_link)
 
 ## Key Features
 
