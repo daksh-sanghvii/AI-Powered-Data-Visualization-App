@@ -25,33 +25,6 @@ This project creates an intelligent data visualization pipeline using Google's G
 - **AI/LLM**: Google Gemini 1.5 Pro
 - **Environment**: Python 3.8+
 
-## Project Architecture
-
-### Core Components
-
-1. **Streamlit Interface** (`main()` function)
-
-   - File upload functionality
-   - User input for questions
-   - Display of results and visualizations
-
-2. **LLM Integration** (`generate_code_from_prompt()`)
-
-   - Sends user questions to Gemini
-   - Receives Python code as response
-   - Formats code for execution
-
-3. **Code Execution Engine** (`run_code_on_dataframe()`)
-
-   - Safely executes generated code
-   - Captures output and visualizations
-   - Handles errors gracefully
-
-4. **Data Analysis Functions**
-   - `get_dataframe_info()`: Extracts comprehensive data info
-   - `analyze_data_with_ai()`: Performs automatic AI analysis
-   - Basic visualization functions for common chart types
-
 ## How It Works
 
 ### 1. Data Upload
